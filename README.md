@@ -4,3 +4,4 @@ sudo apt-get install flex
 
 run flex program just like:
 ./countwords < lexer.l
+append test.
